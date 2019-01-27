@@ -45,6 +45,13 @@ M. R. Pilvankar, H. L. Yong, A. N. Ford Versypt, Mathematical Model for Glucose 
    
 * NormalCurvefitGlucoseDynamics.m.
  Polyfit to representative normal and diabetic subject glucose dynamic profiles.
+ 
+ ### Generating plots 
+ * script_generate_plots.m
+ Runs the models for local and systemic RAS to generate the plots in the paper. Takes in figure number from the paper (3 to 10) as an input to generate the corresponding plots
+ 
+ * .mat files. 
+   Needed to run the programs to pass data, parameters, and calculated values.
 
 
 (c) Minu R. Pilvankar, Hui Ling Yong, and Ashlee N. Ford Versypt, 2018
